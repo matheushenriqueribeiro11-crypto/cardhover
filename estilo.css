@@ -1,0 +1,24 @@
+* {
+
+}
+
+h1 {
+  font-size: 36px;
+  color: white;
+}
+
+h1 span {
+  color: #f4b942;
+}
+
+body > p {
+  color: #ccc;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 40px;
+  margin-top: 40px;
